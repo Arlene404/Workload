@@ -1,0 +1,54 @@
+.fa-home{
+    /* width: 20px;
+    height: 30 */
+    font-size: 25px;
+    
+}
+
+.fa-search{
+    font-size: 18px;
+    position: absolute;
+    padding-right: 20px;
+    margin-right: 20px;
+}
+.board{
+    font-size: 15px;
+    margin-left: 20px;
+  
+
+}
+
+.jump{
+    font-size: 15px;
+    width: 150px;
+    padding-right: 60px;
+    margin-left: 20px;
+}
+
+.icons{
+
+    background-color: rgb(240, 201, 150);
+    height: 40px;
+    margin: 0;
+    padding: 0;
+}
+
+.icons2{
+    padding-top: 15px;
+}
+
+.category{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.fa-star{
+    margin-left: 20px;
+}
+
+.invite{
+    margin-left: 20px;
+}
+    
+ 
+
